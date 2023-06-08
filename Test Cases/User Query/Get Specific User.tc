@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Get Specific User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3e5cd673-181c-4b47-a1e1-cca8ecc66c56</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>98b417f9-24bf-41d2-baf5-8efcf025d95a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>35b0459c-03a9-42e1-8c57-64cf3118ff27</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8613e2e7-9ee7-4fe7-b9d2-f0eff5980202</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>44c64de0-e8a8-4835-a36d-82299826d6e6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Data Specific User').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>98b417f9-24bf-41d2-baf5-8efcf025d95a</id>
+      <masked>false</masked>
+      <name>id</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>35b0459c-03a9-42e1-8c57-64cf3118ff27</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8613e2e7-9ee7-4fe7-b9d2-f0eff5980202</id>
+      <masked>false</masked>
+      <name>first_name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>44c64de0-e8a8-4835-a36d-82299826d6e6</id>
+      <masked>false</masked>
+      <name>last_name</name>
+   </variable>
+</TestCaseEntity>

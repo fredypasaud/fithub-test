@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Get Specific User</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>a0226066-8b32-4100-8ac6-f678f3a895b1</testSuiteGuid>
+   <testCaseLink>
+      <guid>702f0990-ed3d-4aaf-b8cc-dc3c646de971</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/User Query/Get Specific User</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>af99b175-9d0d-49b6-a832-25b402e2804a</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data Specific User</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>af99b175-9d0d-49b6-a832-25b402e2804a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>id</value>
+         <variableId>98b417f9-24bf-41d2-baf5-8efcf025d95a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>af99b175-9d0d-49b6-a832-25b402e2804a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>35b0459c-03a9-42e1-8c57-64cf3118ff27</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>af99b175-9d0d-49b6-a832-25b402e2804a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>first_name</value>
+         <variableId>8613e2e7-9ee7-4fe7-b9d2-f0eff5980202</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>af99b175-9d0d-49b6-a832-25b402e2804a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>last_name</value>
+         <variableId>44c64de0-e8a8-4835-a36d-82299826d6e6</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
